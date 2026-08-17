@@ -1,6 +1,6 @@
 # Newton's Parrot
 
-Newton's Parrot is a Flask-powered AI voice assistant. It uses Google Gemini to answer questions and Gemini text-to-speech to read the answers aloud in a natural voice.
+Newton's Parrot is my very first Flask-powered AI voice assistant. It uses Google Gemini to answer questions and Gemini text-to-speech to read the answers aloud in a natural voice. It has some latency issue though which I am trying to figure out! But nevertheless, it still works :)
 
 ## Requirements
 
